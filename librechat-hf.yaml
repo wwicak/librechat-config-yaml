@@ -1,4 +1,4 @@
-version: 1.1.6
+version: 1.1.7
 
 cache: true
 fileStrategy: "firebase"
@@ -632,7 +632,7 @@ endpoints:
       baseURL: "https://openrouter.ai/api/v1"
       models:
         default: [
-          "openrouter/auto",
+          "x-ai/grok-2-mini",
           "---FREE---",
           "google/gemma-2-9b-it:free",
           "gryphe/mythomist-7b:free",
@@ -791,6 +791,9 @@ endpoints:
           "perplexity/llama-3.1-sonar-large-128k-online",
           "perplexity/llama-3.1-sonar-small-128k-chat",
           "perplexity/llama-3.1-sonar-small-128k-online",
+          "---xAI---",
+          "x-ai/grok-2-mini",
+          "x-ai/grok-2",
           "---QWEN---",
           "qwen/qwen-110b-chat",
           "qwen/qwen-2-72b-instruct",
