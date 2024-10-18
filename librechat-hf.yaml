@@ -632,7 +632,7 @@ endpoints:
       baseURL: "https://openrouter.ai/api/v1"
       models:
         default: [
-          "x-ai/grok-2-mini",
+          "nvidia/llama-3.1-nemotron-70b-instruct",
           "---FREE---",
           "google/gemma-2-9b-it:free",
           "gryphe/mythomist-7b:free",
