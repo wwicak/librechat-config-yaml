@@ -769,6 +769,7 @@ endpoints:
           "qwen/qwen-2-vl-7b-instruct",
           "qwen/qwen-2.5-72b-instruct",
           "qwen/qwen-72b-chat",
+          "qwen/qwen-2.5-coder-32b-instruct",
           "---SAO10K---",
           "sao10k/fimbulvetr-11b-v2",
           "sao10k/l3-euryale-70b",
