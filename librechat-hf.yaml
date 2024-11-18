@@ -649,6 +649,7 @@ endpoints:
           "qwen/qwen-2-7b-instruct:free",
           "qwen/qwen-2-vl-7b-instruct:free",
           "undi95/toppy-m-7b:free",
+          "google/gemini-exp-1114",
           "---NITRO---",
           "gryphe/mythomax-l2-13b:nitro",
           "meta-llama/llama-3-70b-instruct:nitro",
