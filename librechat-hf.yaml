@@ -656,6 +656,7 @@ endpoints:
           "mistralai/mistral-large-2411",
           "cohere/command-r",
           "deepseek/deepseek-chat",
+          "deepseek/deepseek-r1",
           "---NITRO---",
           "gryphe/mythomax-l2-13b:nitro",
           "meta-llama/llama-3-70b-instruct:nitro",
