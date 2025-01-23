@@ -474,6 +474,7 @@ endpoints:
         default: [
           "deepseek-chat",
           "deepseek-coder"
+          "deepseek-reasoner",
           ]
         fetch: false
       titleConvo: true
@@ -749,9 +750,6 @@ endpoints:
           "nousresearch/nous-hermes-llama2-13b",
           "nousresearch/nous-hermes-yi-34b",
           "---OPENAI---",
-          "openai/chatgpt-4o-latest",
-          "openai/gpt-4",
-          "openai/gpt-4o",
           "openai/gpt-4o-mini",
           "openai/gpt-4o-mini-2024-07-18",
           "openai/o1-mini",
