@@ -473,7 +473,7 @@ endpoints:
       models:
         default: [
           "deepseek-chat",
-          "deepseek-coder"
+          "deepseek-coder",
           "deepseek-reasoner",
           ]
         fetch: false
