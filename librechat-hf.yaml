@@ -670,7 +670,6 @@ endpoints:
           "meta-llama/llama-3-8b-instruct:extended",
           "neversleep/llama-3-lumimaid-8b:extended",
           "nousresearch/hermes-3-llama-3.1-405b:extended",
-          "openai/gpt-4o:extended",
           "undi95/remm-slerp-l2-13b:extended",
           "---AI21---",
           "ai21/jamba-1-5-large",
