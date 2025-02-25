@@ -660,8 +660,7 @@ endpoints:
           - '---ANTHROPIC---'
           - anthropic/claude-3.5-haiku
           - anthropic/claude-3.5-haiku-20241022
-          - anthropic/claude-3.5-sonnet
-          - anthropic/claude-3.5-sonnet-20240620
+          - anthropic/claude-3.7-sonnet:beta
           - '---COHERE---'
           - cohere/command
           - cohere/command-r
