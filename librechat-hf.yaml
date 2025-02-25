@@ -640,11 +640,6 @@ endpoints:
           - 'qwen/qwen2.5-vl-72b-instruct:free'
           - 'sophosympatheia/rogue-rose-103b-v0.2:free'
           - 'undi95/toppy-m-7b:free'
-          - '---BETA---'
-          - 'anthropic/claude-3.5-haiku-20241022:beta'
-          - 'anthropic/claude-3.5-haiku:beta'
-          - 'anthropic/claude-3.5-sonnet-20240620:beta'
-          - 'anthropic/claude-3.5-sonnet:beta'
           - '---AI21---'
           - ai21/jamba-1-5-large
           - ai21/jamba-1-5-mini
@@ -658,8 +653,7 @@ endpoints:
           - amazon/nova-micro-v1
           - amazon/nova-pro-v1
           - '---ANTHROPIC---'
-          - anthropic/claude-3.5-haiku
-          - anthropic/claude-3.5-haiku-20241022
+          - anthropic/claude-3.5-haiku:beta
           - anthropic/claude-3.7-sonnet:beta
           - '---COHERE---'
           - cohere/command
