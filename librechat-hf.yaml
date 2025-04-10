@@ -788,10 +788,8 @@ endpoints:
           - sao10k/l3.1-euryale-70b
           - sao10k/l3.3-euryale-70b
           - '---X-AI---'
-          - x-ai/grok-2-1212
-          - x-ai/grok-2-vision-1212
-          - x-ai/grok-beta
-          - x-ai/grok-vision-beta
+          - x-ai/grok-3-beta
+          - x-ai/grok-3-mini-beta
           - '---OTHERS---'
           - 01-ai/yi-large
           - aetherwiing/mn-starcannon-12b
