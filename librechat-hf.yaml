@@ -34,7 +34,6 @@ endpoints:
       models:
         default:
           - google/gemini-2.0-flash-exp:free
-          "---FREE---",
           - "agentica-org/deepcoder-14b-preview:free",
           - "arliai/qwq-32b-arliai-rpr-v1:free",
           - "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
